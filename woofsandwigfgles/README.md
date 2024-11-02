@@ -1,1 +1,0 @@
-This is a school project website mockup which I did for my class at SNHU.  It uses Bootstrap version 5.2 and is a fictional entity.  This is part of my portfolio.  Contact me jmikeneedham@gmail.com.  *THIS IS NOT INTENDED FOR USE AND IS NOT FREE TO USE*
